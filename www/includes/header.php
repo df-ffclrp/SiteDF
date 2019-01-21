@@ -50,6 +50,7 @@
 					<li><a href="http://sites.ffclrp.usp.br/cefim/" title="Página do Centro Estudantil da Física Médica" target="_blank">CEFIM</a></li>
 					<li><a href="http://email.usp.br" target="_blank">Webmail</a></li>
 					<li><a href="http://sites.usp.br/famb" title="Página do programa de pós graduação FAMB" target="_blank">Página Pós FAMB</a></li>
+					<li><a href="videoconferencia.php" title="Instruções para Agendamentos de Videoconferência" target="_blank">Videoconferência</a></li>
 				</ul>		
 			</li>
 			<li><a href="http://df.ffclrp.usp.br/sat/" title="Serviço de Atendimento Técnico" target="_blank">SAT</a></li>
